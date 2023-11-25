@@ -1,4 +1,6 @@
 # test
+config: 
+  info: jdbc:mysql://localhost:3306/springcloud?serverTimezone=GMT%2B8&characterEncoding=utf-8&useSSL=false
 mybatis:
   mapperLocations: classpath:mapper/*.xml
   type-aliases-package: com.qin.springcloud.entities    # 所有Entity别名类所在包
