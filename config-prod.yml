@@ -1,4 +1,4 @@
-###consul服务端口号
+###consul服务端口号 prod
 server:
   port: 80
 spring:
