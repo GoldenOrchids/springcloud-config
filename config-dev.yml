@@ -1,3 +1,6 @@
+config: 
+  info: jdbc:mysql://localhost:3306/springcloud?serverTimezone=GMT%2B8&characterEncoding=utf-8&useSSL=false
+
 #服务端口号 dev
 server:
   port: 8003
